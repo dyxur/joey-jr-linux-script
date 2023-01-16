@@ -1,1 +1,0 @@
-# joey-jr-linux-script
