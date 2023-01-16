@@ -1,10 +1,10 @@
 * joey-jr-linux-script
 ** About
-   The [[https://bennvenn.myshopify.com/products/usb-gb-c-cart-dumper-the-joey-jr][Joey Jr]] is a great little device that can be used to dump GB/C/A Roms, saves and flash Roms and saves.
+   The [[https://bennvenn.myshopify.com/products/usb-gb-c-cart-dumper-the-joey-jr][Joey Jr]] is a great little device that can be used to dump GB/C/A Roms & saves and flash Roms & saves.
    The best supported platform however is windows and the provided script didn't really work for me.
    This here project is used to rewrite / expand the provided script to make using the Joey easier on Linux.
 
-** TODO
+** TODO TODO
    - [ ] Test Write SRAM
    - [ ] Test Write FLASH
    - [ ] Automount Joey
